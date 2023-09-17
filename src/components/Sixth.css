@@ -1,0 +1,43 @@
+body,html{
+    width: 100wh;
+    overflow-x: hidden;
+}
+.Sixth_page_heading{
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+    font-size: 60px;
+}
+.sumit{
+    display: block;
+    width: 87%;
+    height: 70px;
+    background-color: rgb(45, 45, 45);
+    color: white;
+    font-size: 25px;
+    padding-left:6%;
+    text-align: left;
+}
+.all_questions{
+    margin-left: 12%;
+}
+.collapse .card-body{
+    background-color:rgb(45, 45, 45);
+    width: 87%;
+    color: white;
+}
+.collapse{
+    margin-bottom: 8px;
+}
+.sixth_page_last_heading{
+    color: white;
+    margin-left: 29%;
+}
+.Sixth_page_last{
+    margin-top: 3%;
+}
+.Sixth_page_last_content{
+    width: 100vw;
+    height:3px;
+    background-color: gray;
+}

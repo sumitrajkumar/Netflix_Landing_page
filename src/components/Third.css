@@ -1,0 +1,45 @@
+body,html{
+    width: 100wh;
+    overflow-x: hidden;
+}
+.Third_page_first{
+    color: white;
+    font-size: 60px;
+    
+}
+.Third_page_last{
+    color:white;
+}
+#Third_page_left{
+    width: 49vw;
+    height: 78vh;
+    padding-left:11%;
+    padding-top:15%;
+}
+.Third_page_main{
+    width: 49vw;
+    height: 78vh;
+    box-sizing: border-box;
+    float: left;
+}
+.Third_page_image{
+    margin-top: 55px;
+    margin-left: 30px;
+    width: 87%;
+    position: relative;
+}
+.Third_page_video{
+    position:relative;
+    bottom: 67%;
+    left: 15%;
+    z-index: -1;
+}
+.Third_page_last_content{
+    width: 100vw;
+    height: 5px;
+    background-color:rgb(35, 35, 35);
+}
+#neglect{
+    color: black;
+}
+

@@ -17,6 +17,8 @@ function First() {
       <input type="text" id="name" placeholder='Email Address'></input>
       <Link to="Second"><button className='button'>Get Started</button></Link>
       </div>
+    
+      <div className='First_page_last_content'></div>
     </>
   )
 }
